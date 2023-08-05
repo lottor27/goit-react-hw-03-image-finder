@@ -1,7 +1,7 @@
 import React from 'react';
 import { Component } from 'react';
 import { ToastContainer } from 'react-toastify';
-import Searchbar from './searchbar/searchbar';
+import Searchbar from './Searchbar/Searchbar';
 import fetchGallary from 'Services/GallaryApi';
 import { toast } from 'react-toastify';
 import ImageGallery from './ImageGallery/ImageGallery';
